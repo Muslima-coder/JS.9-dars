@@ -323,8 +323,7 @@
 //IIFE fn - Afzallilari: Darhol bajariladi,Global namespace-ni toza saqlash uchun foydalidir.
 // (function(){
 //      console.log("Bu IIFE funksiyasi, bu funksiyaga nom bermasdan anonim holatda yozsak boladi va u birdaniga ishlaydi");
-// }
-// )()
+// })();
 
 //Generator fn -Generator bu — JavaScript’dagi maxsus funksiya bo‘lib, u bajarilishini to‘xtatib turish (pause) va keyin davom ettirish (resume) imkonini beradi. Oddiy funksiya bir marta chaqirilganda oxirigacha bajariladi, lekin generator bu jarayonni boshqarishga imkon beradi.
 // function* sonlar() {
